@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @EpicSenseii
-- 👀 I’m interested in front end developping
-- 🌱 I’m currently learning javascript & react js
-- 📫 You can contact me on instagram   Epic_Seysey
+- 👀 I’m interested in front end & back end developping
+- 🌱 I’m currently learning javascript & vue js / react js
+- 📫 You can contact me on instagram  : Epic_Seysey or twitter : @EpicSenseii
